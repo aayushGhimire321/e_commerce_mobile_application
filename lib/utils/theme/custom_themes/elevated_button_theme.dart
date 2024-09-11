@@ -5,7 +5,7 @@ class TElevatedButtonTheme {
   TElevatedButtonTheme._(); // To avoid creating instances
 
   // Light Theme
-  static final LightElevatedButtonTheme = ElevatedButtonThemeData(
+  static final lightElevatedButtonTheme = ElevatedButtonThemeData(
     style: ElevatedButton.styleFrom(
       elevation: 0,
       foregroundColor: Colors.white,
